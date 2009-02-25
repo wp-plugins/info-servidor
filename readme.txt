@@ -24,8 +24,11 @@ Este plugin te da infomacion basica acerca de tu servidor asi como:
 == Installation ==
 
 1.Descomprimir el cotenido del archivo en una carpeta
+
 2.Subir el archivo a la carpeta wp-content de tu WordPress
+
 3.Activar el plugin
+
 4.Visualizar el plugin en la seccion tablero
 
 == Screenshots ==
